@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h1{
+    font-size: 60px;
+    font-weight: 800;
+    padding-top: 0px;
+    
+}
+.name-highlight{
+    color:#c30000;
+}
+h2{
+    font-size: 40px;
+    font-weight:500;
+    
+}
+h3{
+    text-align: center;
+    /* float: left; */
+}
+.half-width{
+    padding-top: 5%;
+    width: 40%;
+    float: left;
+    margin-left: 6% ;
+    padding-left: 5%;
+    font-weight: 300;
+    padding-bottom: 10%;
+}
+.half-width-text{
+    padding-top: 10%;
+    width: 40%;
+    float: left;
+    margin-left: 6% ;
+    padding-left: 5%;
+    font-weight: 300;
+    padding-bottom: 10%;
+}
+.half-width-img{
+    width: 40%;
+    float: left;
+    padding-top: 7%;
+}
+.half-width-text2{
+    ma
+}
+img{
+    width:100%;
+}
+#bio-img{
+    padding-bottom:12%;
+    width: 85%;
+}
+.anchor-button{
+    text-decoration: none;
+    color: white ;
+    padding: 7px 30px;
+    background-image: linear-gradient(255deg,#d47304, rgb(230, 170, 32), tomato );
+    border-radius: 5px;
+    font-weight: 800;
+
+
+}
+    
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+       
+}
+.biography-area{
+    background-image: url("images/biography-bg.png");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    text-align: justify;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+section{
+    height: 700px;
+}
+#biography{
+    width: 30%;
+    /* float: left; */
+    padding-top: 13%;
+}
+span{
+    color: black;
+}
+/* my last work */
+#my-latest-work{
+    text-align: center;
+}
+.mlw{
+    background-image: url("");
+}
